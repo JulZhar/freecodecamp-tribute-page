@@ -1,0 +1,68 @@
+body {
+  font-family: 'Roboto',  sans-serif;
+  background: #fef5f6; 
+  color: #430509;
+}
+a {
+  color: #f24a56;
+}
+main {
+  border-radius: 3px;
+  margin: auto;
+  margin-top: 30px;
+  padding-top: 1px;
+  max-width: 900px;
+}
+h1, .title-description {
+  text-align: center;
+}
+h1 {
+  margin-bottom: 0;
+}
+figure {
+  background: #fff;
+  padding: 10px;
+  margin: auto 10px;
+}
+figcaption {
+  text-align: center;
+  margin-top: 10px;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+.section-description {
+  padding: 10px 10px 0 10px;
+}
+.section-facts {
+  padding-bottom: 40px;
+}
+h3 {
+  text-align: center;
+  margin-top: 35px;
+}
+ul {
+  margin: auto;
+  max-width: 500px;
+}
+li {
+  margin-bottom: 20px;
+}
+blockquote {
+  max-width: 500px;
+  margin: 40px auto 0 auto;
+  background: #fff;
+  padding: 10px 10px 10px 50px;
+  border-left: 4px solid pink;
+  font-style: italic;
+  border-radius: 3px;
+}
+blockquote > p {
+  margin-top: 0;
+}
+footer {
+  font-weight: 500;
+}
